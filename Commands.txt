@@ -1,0 +1,15 @@
+Git Commands
+git init: Initializes a New Repository
+git remote -v: Indicates Origin URL
+git add: Adds Files to Be Committed
+git set-url origin [Origin URL]: Changes Origin URL
+git commit -m: Commits File with Message
+git push origin [Branch Name]: Pushes Git Commit to Branch on Repository
+git status:
+git fetch:
+git pull:
+git merge:
+git branch:
+git branch -m:
+git checkout [branch]: Changes Branch Selection
+git add: Stages Files to be Committed
