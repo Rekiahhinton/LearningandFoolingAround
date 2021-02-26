@@ -13,3 +13,6 @@ git branch:
 git branch -m:
 git checkout [branch]: Changes Branch Selection
 git add: Stages Files to be Committed
+cd: "Change Directory"
+pwd: "Print Working Directory"
+ls: "List" (Directories) 
