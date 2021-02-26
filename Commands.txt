@@ -16,3 +16,6 @@ git add: Stages Files to be Committed
 cd: "Change Directory"
 pwd: "Print Working Directory"
 ls: "List" (Directories) 
+git mv: Renames File and Adds So File is Staged
+git reset: Unstages Files
+git rm: Deleted Files
