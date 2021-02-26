@@ -19,3 +19,5 @@ ls: "List" (Directories)
 git mv: Renames File and Adds So File is Staged
 git reset: Unstages Files
 git rm: Deleted Files
+git log: Shows History of Commits
+git log --oneline: Shows History of Commits in More Compact Form
