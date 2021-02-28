@@ -2,14 +2,23 @@ Git Commands
 git init: Initializes a New Repository
 git remote -v: Indicates Origin URL
 git add: Adds Files to Be Committed
-git set-url origin [Origin URL]: Changes Origin URL
+git remote set-url origin [Origin URL]: Changes Origin URL
 git commit -m: Commits File with Message
 git push origin [Branch Name]: Pushes Git Commit to Branch on Repository
-git status:
+git status: Check Status of Staged and Unstaged Files, Committed Files, etc.
 git fetch:
-git pull:
-git merge:
-git branch:
-git branch -m:
+git pull: Downloads All Commits that have been Pushed into Repository
+git merge: Merges Two Branches Together
+git branch: See Branch Checkout On
+git branch -m: 
 git checkout [branch]: Changes Branch Selection
 git add: Stages Files to be Committed
+cd: "Change Directory"
+pwd: "Print Working Directory"
+ls: "List" (Directories) 
+mkdir: Creates New "Directory," Folder
+git mv: Renames File and Adds So File is Staged
+git reset: Unstages Files
+git rm: Deleted Files
+git log: Shows History of Commits
+git log --oneline: Shows History of Commits in More Compact Form
