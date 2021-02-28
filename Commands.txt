@@ -7,7 +7,7 @@ git commit -m: Commits File with Message
 git push origin [Branch Name]: Pushes Git Commit to Branch on Repository
 git status: Check Status of Staged and Unstaged Files, Committed Files, etc.
 git fetch:
-git pull: Downloads All Commits that Have Been Push into Repository
+git pull: Downloads All Commits that have been Pushed into Repository
 git merge: Merges Two Branches Together
 git branch: See Branch Checkout On
 git branch -m: 
