@@ -1,4 +1,6 @@
 This is a document written to learn Git and GitHub!
 
-This is modification on the second line!
+This is modification on the second line.
+
+This is a modification on the third line.
 
